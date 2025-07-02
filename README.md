@@ -1,4 +1,4 @@
-# 🚀 Kubernetes Part 1 – minikube & KOps Installation
+# 🚀 Kubernetes Part 1 – minikube & KOps Installations
 
 This README serves as a **complete hands-on guide** for Kubernetes learning. It includes YAML manifests and command-line usage to help you practice kubernetes related topics.
 
